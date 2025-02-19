@@ -1,1 +1,6 @@
-/* в этот файл добавляет скрипты*/
+import { wrapperMenu } from './wrapper.js';
+import { slider } from './slider.js';
+
+
+wrapperMenu();
+slider();
